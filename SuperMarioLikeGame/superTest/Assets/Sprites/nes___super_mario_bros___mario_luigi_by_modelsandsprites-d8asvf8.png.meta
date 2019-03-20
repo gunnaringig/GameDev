@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 085c7ca1d1d6d224ab10dbab78a425a4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_0
+    21300002: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_1
+    21300004: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_2
+    21300006: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_3
+    21300008: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_4
+    21300010: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_5
+    21300012: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_6
+    21300014: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_7
+    21300016: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_8
+    21300018: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_9
+    21300020: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_10
+    21300022: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_11
+    21300024: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_12
+    21300026: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_13
+    21300028: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_14
+    21300030: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_15
+    21300032: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_16
+    21300034: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_17
+    21300036: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_18
+    21300038: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_19
+    21300040: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_20
+    21300042: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_21
+    21300044: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_22
+    21300046: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_23
+    21300048: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_24
+    21300050: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_25
+    21300052: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_26
+    21300054: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_27
+    21300056: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_28
+    21300058: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_29
+    21300060: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_30
+    21300062: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_31
+    21300064: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_32
+    21300066: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_33
+    21300068: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_34
+    21300070: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_35
+    21300072: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_36
+    21300074: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_37
+    21300076: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_38
+    21300078: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_39
+    21300080: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_40
+    21300082: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_41
+    21300084: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_42
+    21300086: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_43
+    21300088: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_44
+    21300090: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_45
+    21300092: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_46
+    21300094: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_47
+    21300096: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_48
+    21300098: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_49
+    21300100: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_50
+    21300102: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_51
+    21300104: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_52
+    21300106: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_53
+    21300108: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_54
+    21300110: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_55
+    21300112: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_56
+    21300114: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_57
+    21300116: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_58
+    21300118: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_59
+    21300120: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_60
+    21300122: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_61
+    21300124: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_62
+    21300126: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_63
+    21300128: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_64
+    21300130: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_65
+    21300132: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_66
+    21300134: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_67
+    21300136: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_68
+    21300138: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_69
+    21300140: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_70
+    21300142: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_71
+    21300144: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_72
+    21300146: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_73
+    21300148: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_74
+    21300150: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_75
+    21300152: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_76
+    21300154: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_77
+    21300156: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_78
+    21300158: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_79
+    21300160: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_80
+    21300162: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_81
+    21300164: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_82
+    21300166: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_83
+    21300168: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_84
+    21300170: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_85
+    21300172: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_86
+    21300174: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_87
+    21300176: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_88
+    21300178: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_89
+    21300180: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_90
+    21300182: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_91
+    21300184: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_92
+    21300186: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_93
+    21300188: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_94
+    21300190: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_95
+    21300192: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_96
+    21300194: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_97
+    21300196: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_98
+    21300198: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_99
+    21300200: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_100
+    21300202: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_101
+    21300204: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_102
+    21300206: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_103
+    21300208: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_104
+    21300210: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_105
+    21300212: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_106
+    21300214: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_107
+    21300216: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_108
+    21300218: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_109
+    21300220: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_110
+    21300222: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_111
+    21300224: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_112
+    21300226: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_113
+    21300228: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_114
+    21300230: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_115
+    21300232: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_116
+    21300234: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_117
+    21300236: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_118
+    21300238: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_119
+    21300240: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_120
+    21300242: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_121
+    21300244: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_122
+    21300246: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_123
+    21300248: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_124
+    21300250: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_125
+    21300252: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_126
+    21300254: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_127
+    21300256: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_128
+    21300258: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_129
+    21300260: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_130
+    21300262: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_131
+    21300264: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_132
+    21300266: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_133
+    21300268: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_134
+    21300270: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_135
+    21300272: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_136
+    21300274: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_137
+    21300276: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_138
+    21300278: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_139
+    21300280: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_140
+    21300282: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_141
+    21300284: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_142
+    21300286: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_143
+    21300288: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_144
+    21300290: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_145
+    21300292: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_146
+    21300294: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_147
+    21300296: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_148
+    21300298: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_149
+    21300300: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_150
+    21300302: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_151
+    21300304: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_152
+    21300306: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_153
+    21300308: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_154
+    21300310: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_155
+    21300312: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_156
+    21300314: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_157
+    21300316: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_158
+    21300318: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_159
+    21300320: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_160
+    21300322: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_161
+    21300324: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_162
+    21300326: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_163
+    21300328: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_164
+    21300330: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_165
+    21300332: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_166
+    21300334: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_167
+    21300336: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_168
+    21300338: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_169
+    21300340: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_170
+    21300342: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_171
+    21300344: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_172
+    21300346: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_173
+    21300348: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_174
+    21300350: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_175
+    21300352: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_176
+    21300354: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_177
+    21300356: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_178
+    21300358: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_179
+    21300360: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_180
+    21300362: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_181
+    21300364: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_182
+    21300366: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_183
+    21300368: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_184
+    21300370: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_185
+    21300372: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_186
+    21300374: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_187
+    21300376: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_188
+    21300378: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_189
+    21300380: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_190
+    21300382: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_191
+    21300384: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_192
+    21300386: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_193
+    21300388: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_194
+    21300390: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_195
+    21300392: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_196
+    21300394: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_197
+    21300396: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_198
+    21300398: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_199
+    21300400: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_200
+    21300402: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_201
+    21300404: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_202
+    21300406: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_203
+    21300408: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_204
+    21300410: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_205
+    21300412: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_206
+    21300414: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_207
+    21300416: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_208
+    21300418: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_209
+    21300420: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_210
+    21300422: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_211
+    21300424: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_212
+    21300426: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_213
+    21300428: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_214
+    21300430: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_215
+    21300432: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_216
+    21300434: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_217
+    21300436: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_218
+    21300438: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_219
+    21300440: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_220
+    21300442: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_221
+    21300444: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_222
+    21300446: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_223
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 79, y: 477, z: 111, w: 32}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bd439b490b7284db10e79e4fd4755e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b98e7f208c8104fa71535ef5bc5446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7081b8c62dfa1fb4baa5b53ef33ce68b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c8547233102874daeb1f2e5ba795d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611e715a5848b0f4bbfe37ea99a05c40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes___super_mario_bros___mario_luigi_by_modelsandsprites-d8asvf8_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75db7403c6722a64f8a4b847aea63819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 09f9e739401175447b684b23eed01399
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
